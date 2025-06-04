@@ -174,10 +174,9 @@ Modeller aşağıdaki metriklerle değerlendirilmektedir:
 > Not: Veri setinden test verisinin ayrılması aşamasında `random state` değeri aynı tutulmuş ve modellerin aynı örnekler ile test işlemini yapması sağlanmıştır.
 
 ---
-
 ## 👨‍💻 Katkı Sağla
 
-Yeni intent’ler, Barney replikaları, ya da model iyileştirmeleri mi düşündün? PR’lara açığız!
+Yeni intent'leri Barney replikaları ya da model iyileştirmeleri mi düşündün? PR'lara açığız!
 ---
 
 ## 📄 Lisans
