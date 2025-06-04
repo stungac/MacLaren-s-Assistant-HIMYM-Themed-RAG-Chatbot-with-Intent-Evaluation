@@ -51,7 +51,7 @@ Proje, HIMYM dizisine özgü kullanıcı mesajlarını, bunlara karşılık gele
 ## 💬 Chatbot Akışı Tasarımı
 Chatbot aşağıdaki intent (niyet) örnekleri gibi konularda kullanıcının temel sorularına cevap verebilmektedir.
 
-![Akış Diyagramı](/assets/akis-diyagrami.png)
+![Akış Diyagramı](assests/akis-diyagrami.png)
 
 ---
 
@@ -140,8 +140,8 @@ python evaluate_ollama.py
 
 Chatbot arayüzü örnekleri aşağıda gösterilmiştir:
 
-![Sohbet Örneği 1](/assets/chat_ui_1.png)
-![Sohbet Örneği 2](/assets/chat_ui_2.png)
+![Sohbet Örneği 1](assests/chatbot-ui-1.png)
+![Sohbet Örneği 2](assests/chatbot-ui-2.png)
 
 ---
 
