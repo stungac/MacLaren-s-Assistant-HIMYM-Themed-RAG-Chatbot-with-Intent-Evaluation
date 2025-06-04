@@ -5,8 +5,8 @@ import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # -------------------- chose model from here -------------------- 
-from models.openai_model import build_chat_chain
-# from models.ollama_model import build_chat_chain
+# from models.openai_model import build_chat_chain
+from models.ollama_model import build_chat_chain
 
 st.set_page_config(page_title="MacLaren's Assistant", layout="centered")
 
