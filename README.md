@@ -2,6 +2,8 @@
 
 **MacLaren's Assistant**, How I Met Your Mother (HIMYM) evreninden ilham alan, kullanıcı mesajlarını analiz edip niyetini (intent) tanımlayan ve karakter temalı yanıtlar üreten bir sohbet botudur. Sistem, hem OpenAI hem de Ollama (Mistral) destekli modellerle çalışmakta ve modellerin performanslarını karşılaştırmalı olarak sunmaktadır.
 
+Kullanıcı ilişki tavsiyeleri, arkaadaşlık ve sosyal hayat, hayat tavsiyeleri ve motivasyon gibi konularda chabtot ile konuşabileceği gibi himym karakterleri veya ortama özel muhabbet de edebilmektedir.
+
 > “Because sometimes, even when you know how something’s gonna end, that doesn’t mean you can’t enjoy the ride.” – Ted Mosby  
 
 ---
@@ -45,6 +47,10 @@ Proje, HIMYM dizisine özgü kullanıcı mesajlarını, bunlara karşılık gele
 
 🔗 [MacLaren's Chat – A HIMYM Themed Chatbot Dataset (Kaggle)](https://www.kaggle.com/datasets/sudenurtunga/maclarens-chat-a-himym-themed-chatbot-dataset/data)
 
+---
+## 💬 Chatbot Akışı Tasarımı
+Chatbot aşağıdaki intent (niyet) örnekleri gibi konularda kullanıcının temel sorularına cevap verebilmektedir.
+![Akış Diyagramı](assets/akis-diyagrami.png)
 ---
 
 ## 🧠 Kullanılan Modeller ve Araçlar
@@ -94,7 +100,7 @@ OPENAI_API_KEY=your_openai_key_here
 `app.py` dosyasının en üst kısmında aşağıdaki satırları göreceksiniz:
 
 ```python
-""" -------------------- chose model from here -------------------- """
+# -------------------- chose model from here -------------------- 
 # from models.openai_model import build_chat_chain
 # from models.ollama_model import build_chat_chain
 ```
