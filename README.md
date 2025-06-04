@@ -177,7 +177,6 @@ Modeller aşağıdaki metriklerle değerlendirilmektedir:
 ## 👨‍💻 Katkı Sağla
 
 Yeni intent'leri Barney replikaları ya da model iyileştirmeleri mi düşündün? PR'lara açığız!
----
 
 ## 📄 Lisans
 
