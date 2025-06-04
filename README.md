@@ -119,7 +119,14 @@ from models.ollama_model import build_chat_chain
 Değişikliği yaptıktan sonra uygulamayı başlatabilirsiniz:
 
 ### Arayüz Başlatma (Chatbot):
+- OpenAI kullanacaksanız:
 ```bash
+streamlit run app.py
+```
+- Ollama (Mistral) kullanacaksanız:
+```bash
+ollama serve
+ollama run mistral
 streamlit run app.py
 ```
 
@@ -132,6 +139,7 @@ python evaluate_openai.py
 
 #### Ollama (Mistral):
 ```bash
+ollama serve
 ollama run mistral
 python evaluate_ollama.py
 ```
