@@ -2,7 +2,7 @@
 
 **MacLaren's Assistant**, How I Met Your Mother (HIMYM) evreninden ilham alan, kullanıcı mesajlarını analiz edip niyetini (intent) tanımlayan ve karakter temalı yanıtlar üreten bir sohbet botudur. Sistem, hem OpenAI hem de Ollama (Mistral) destekli modellerle çalışmakta ve modellerin performanslarını karşılaştırmalı olarak sunmaktadır.
 
-Kullanıcı ilişki tavsiyeleri, arkaadaşlık ve sosyal hayat, hayat tavsiyeleri ve motivasyon gibi konularda chabtot ile konuşabileceği gibi himym karakterleri veya ortama özel muhabbet de edebilmektedir.
+Kullanıcı ilişki tavsiyeleri, arkaadaşlık ve sosyal hayat, hayat tavsiyeleri ve motivasyon gibi konularda chabtot ile konuşabileceği gibi içecek tavsiyesi, himym karakterleri veya ortama özel muhabbet de edebilmektedir.
 
 > “Because sometimes, even when you know how something’s gonna end, that doesn’t mean you can’t enjoy the ride.” – Ted Mosby  
 
