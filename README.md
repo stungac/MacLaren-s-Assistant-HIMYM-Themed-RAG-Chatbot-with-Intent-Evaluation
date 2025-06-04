@@ -172,4 +172,12 @@ Modeller aşağıdaki metriklerle değerlendirilmektedir:
 Yeni intent’ler, Barney replikaları, ya da model iyileştirmeleri mi düşündün? PR’lara açığız!
 ---
 
-**“It’s gonna be legen — wait for it — dary!”**  
+## 📄 Lisans
+
+Bu proje, [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) lisansı kapsamında sunulmaktadır.
+
+Yazılımı kullanmakta, çoğaltmakta, dağıtmakta ve değiştirmekte özgürsünüz.  
+Ticari kullanım da serbesttir.  
+Ancak, telif hakkı bildirimleri ve lisans metni korunmalı ve proje ile birlikte yer almalıdır.
+
+Tam metin için [LICENSE](./LICENSE) dosyasını inceleyebilirsiniz.
