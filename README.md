@@ -38,7 +38,7 @@ project-root/
 
 ## 📊 Veri Kümesi
 
-Proje, HIMYM dizisine özgü kullanıcı mesajlarını, bunlara karşılık gelen chatbot yanıtlarını ve niyet etiketlerini içeren özel bir veri kümesini kullanmaktadır. Veri seti bu proje için üretilmiş olup çeşitli projelerde kullanıma açıktır. Vei setine Kaggle platformu üzerinden erişilebilmektedir.
+Proje, HIMYM dizisine özgü kullanıcı mesajlarını, bunlara karşılık gelen chatbot yanıtlarını ve niyet etiketlerini içeren özel bir veri kümesini kullanmaktadır. Veri seti bu proje için üretilmiş olup çeşitli projelerde kullanıma açıktır. Veri setine Kaggle platformu üzerinden erişilebilmektedir.
 
 - **Veri Özellikleri:**
   - Intent (niyet) etiketi
